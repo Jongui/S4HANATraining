@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_G4BS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <_-IWBEP_-I_V4_MSRT>
+    <_-IWBEP_-I_V4_MSRT>
+     <SERVICE_ID>ZTREINAXXX_VENDACAB</SERVICE_ID>
+     <SERVICE_VERSION>0001</SERVICE_VERSION>
+     <LANGUAGE>E</LANGUAGE>
+     <DESCRIPTION>Servico Odata V4</DESCRIPTION>
+    </_-IWBEP_-I_V4_MSRT>
+   </_-IWBEP_-I_V4_MSRT>
+   <_-IWBEP_-I_V4_MSRV>
+    <_-IWBEP_-I_V4_MSRV>
+     <SERVICE_ID>ZTREINAXXX_VENDACAB</SERVICE_ID>
+     <SERVICE_VERSION>0001</SERVICE_VERSION>
+     <MPC_NAME>ZCL_VENDACABITEM_V4_MODEL</MPC_NAME>
+     <DPC_NAME>ZCL_VENDACABITEM_V4_DATA</DPC_NAME>
+     <IS_SAP_SERVICE>-</IS_SAP_SERVICE>
+     <GWBEP_VERSION>013</GWBEP_VERSION>
+     <CREATED_BY>DEVELOPER</CREATED_BY>
+     <CHANGED_BY>DEVELOPER</CHANGED_BY>
+     <CREATED_TS>20191219093414</CREATED_TS>
+     <CHANGED_TS>20191219140326</CHANGED_TS>
+    </_-IWBEP_-I_V4_MSRV>
+   </_-IWBEP_-I_V4_MSRV>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_G4BA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <_-IWBEP_-I_V4_MSGA>
+    <_-IWBEP_-I_V4_MSGA>
+     <GROUP_ID>ZTREINAXXX</GROUP_ID>
+     <SERVICE_ID>ZTREINAXXX_VENDACAB</SERVICE_ID>
+     <REPOSITORY_ID>DEFAULT</REPOSITORY_ID>
+     <CREATED_BY>DEVELOPER</CREATED_BY>
+     <CHANGED_BY>DEVELOPER</CHANGED_BY>
+     <CREATED_TS>20191219104349</CREATED_TS>
+     <CHANGED_TS>20191219104349</CHANGED_TS>
+    </_-IWBEP_-I_V4_MSGA>
+   </_-IWBEP_-I_V4_MSGA>
+   <_-IWBEP_-I_V4_MSGR>
+    <_-IWBEP_-I_V4_MSGR>
+     <GROUP_ID>ZTREINAXXX</GROUP_ID>
+     <CREATED_BY>DEVELOPER</CREATED_BY>
+     <CHANGED_BY>DEVELOPER</CHANGED_BY>
+     <CREATED_TS>20191219093101</CREATED_TS>
+     <CHANGED_TS>20191219104349</CHANGED_TS>
+    </_-IWBEP_-I_V4_MSGR>
+   </_-IWBEP_-I_V4_MSGR>
+   <_-IWBEP_-I_V4_MSGT>
+    <_-IWBEP_-I_V4_MSGT>
+     <GROUP_ID>ZTREINAXXX</GROUP_ID>
+     <LANGUAGE>E</LANGUAGE>
+     <DESCRIPTION>Grupo de servicos para treinamento</DESCRIPTION>
+    </_-IWBEP_-I_V4_MSGT>
+   </_-IWBEP_-I_V4_MSGT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

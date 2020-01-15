@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZM_TREINA_XXX</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Classe de mensagem para treinamento</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZM_TREINA_XXX</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Entidade &amp;1 nao encontrada em &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZM_TREINA_XXX</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>filter, top ou navegacao devem ser utilizadas para acessar &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZM_TREINA_XXX</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Chave &amp;1 nao confere com chave do payload</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
